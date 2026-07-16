@@ -1,0 +1,1 @@
+print("Hi my name is Akram Khan, i am persuing btech from shri ramswaroop memorial university, dewa road barabanki/n my core subjects are machine learning and artificial intelligence./n thank you so much guys")
